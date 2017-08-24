@@ -5,13 +5,13 @@ Buyer beware, please double check all measurements before you pay someone to cut
 
 ## Notes
 These brackets have bend relief allowances and bend notches.  These are not called for in the plans, but I was okay with them being subsumed into the weld, please adjust them if you don't want them:
-210-85/86
-210-87/88
-210-89/90
-210-96
-210-106/107
-210-108/109
-210-110/111
+* 210-85/86
+* 210-87/88
+* 210-89/90
+* 210-96
+* 210-106/107
+* 210-108/109
+* 210-110/111
 
 Some plans have scaling squares, bend lines, and other unneeded additions. Delete what you don't want.
 
