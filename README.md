@@ -3,6 +3,8 @@ CAD Drawings of S-1S brackets and sheet metal.  All files are currently in .dxf 
 
 Buyer beware, please double check all measurements before you pay someone to cut these.
 
+Please do not add plans with proprietary information to this collection.  Everything in this collection is useful for building a Pitts from plans, but the goal is not to copy anyone's secret sauce.
+
 ## Notes
 These brackets have bend relief allowances and bend notches.  These are not called for in the plans, but I was okay with them being subsumed into the weld, please adjust them if you don't want them:
 * 210-85/86
