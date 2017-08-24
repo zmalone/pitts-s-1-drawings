@@ -18,6 +18,8 @@ Some plans have scaling squares, bend lines, and other unneeded additions. Delet
 Some parts are duplicated in different directions, such as 224-29/224-30.  I've included the first part number, but not both numbers.
 
 ## TODO
+Add material and count information for each part.
+
 I'm planning on using someone else's tail and wing kit.  No tail or wing brackets are included at this time.
 
 I have not yet drawn the lower engine cowling.
