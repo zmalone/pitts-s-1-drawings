@@ -15,8 +15,6 @@ These brackets have bend relief allowances and bend notches.  These are not call
 * 210-108/109
 * 210-110/111
 
-Some plans have scaling squares, bend lines, and other unneeded additions. Delete what you don't want.
-
 Some parts are duplicated in different directions, such as 224-29/224-30.  I've included the first part number, but not both numbers.
 
 ## TODO

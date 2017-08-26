@@ -9,19 +9,19 @@ AC1027
   9
 $ACADMAINTVER
  70
-   125
+   105
   9
 $DWGCODEPAGE
   3
 ANSI_1252
   9
-$LASTSAVEDBY
-  1
-callumrd
-  9
 $REQUIREDVERSIONS
 160
                  0
+  9
+$LASTSAVEDBY
+  1
+malwi01
   9
 $INSBASE
  10
@@ -493,27 +493,27 @@ $SKPOLY
   9
 $TDCREATE
  40
-2457939.640543981
+2457939.598877315
   9
 $TDUCREATE
  40
-2457939.890543982
+2457939.890543981
   9
 $TDUPDATE
  40
-2457939.659039352
+2457991.76556434
   9
 $TDUUPDATE
  40
-2457939.909039352
+2457992.057231007
   9
 $TDINDWG
  40
-0.0120023148
+0.012002338
   9
 $TDUSRTIMER
  40
-0.0120023148
+2457992.056691586
   9
 $USRTIMER
  70
@@ -553,7 +553,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-2C0
+2D5
   9
 $SURFTAB1
  70
@@ -847,9 +847,9 @@ $PLIMMIN
   9
 $PLIMMAX
  10
-12.0
+0.0
  20
-9.0
+0.0
   9
 $UNITMODE
  70
@@ -1135,7 +1135,7 @@ ObjectDBX Classes
  90
         0
  91
-        1
+       79
 280
      0
 281
@@ -1167,7 +1167,7 @@ ObjectDBX Classes
  90
      4095
  91
-        1
+       79
 280
      0
 281
@@ -1183,7 +1183,7 @@ ObjectDBX Classes
  90
      1153
  91
-        3
+       79
 280
      0
 281
@@ -1199,7 +1199,7 @@ ObjectDBX Classes
  90
      4095
  91
-       24
+       79
 280
      0
 281
@@ -1215,7 +1215,7 @@ ObjectDBX Classes
  90
      1153
  91
-       33
+       79
 280
      0
 281
@@ -1231,7 +1231,7 @@ ACDB_MLEADERSTYLE_CLASS
  90
      4095
  91
-        2
+       79
 280
      0
 281
@@ -1247,7 +1247,7 @@ ObjectDBX Classes
  90
      1152
  91
-        1
+        9
 280
      0
 281
@@ -1263,9 +1263,9 @@ EXAC_ESW
  90
      1025
  91
-        0
+        1
 280
-     0
+     1
 281
      0
   0
@@ -1279,9 +1279,9 @@ ObjectDBX Classes
  90
      1153
  91
-        0
+        1
 280
-     0
+     1
 281
      0
   0
@@ -1295,7 +1295,7 @@ ObjectDBX Classes
  90
         0
  91
-        0
+        8
 280
      0
 281
@@ -1307,11 +1307,11 @@ SPATIAL_INDEX
   2
 AcDbSpatialIndex
   3
-ObjectDBX Classes
+AutoCAD 2000
  90
         0
  91
-        0
+        8
 280
      0
 281
@@ -1327,7 +1327,7 @@ ObjectDBX Classes
  90
         0
  91
-        0
+        8
 280
      0
 281
@@ -1343,7 +1343,7 @@ ObjectDBX Classes
  90
      1025
  91
-        1
+        8
 280
      0
 281
@@ -1359,7 +1359,7 @@ ObjectDBX Classes
  90
      1025
  91
-        1
+        8
 280
      0
 281
@@ -1375,7 +1375,7 @@ ObjectDBX Classes
  90
         0
  91
-        2
+        7
 280
      0
 281
@@ -1391,7 +1391,39 @@ AcDbDimAssoc
  90
         0
  91
-        4
+        5
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+SUN
+  2
+AcDbSun
+  3
+SCENEOE
+ 90
+     1153
+ 91
+       79
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+RASTERVARIABLES
+  2
+AcDbRasterVariables
+  3
+ISM
+ 90
+        0
+ 91
+       79
 280
      0
 281
@@ -1544,6 +1576,8 @@ AcDbViewportTableRecord
    250
 421
   3355443
+361
+2C1
 1001
 ACAD_NAV_VCDISPLAY
 1070
@@ -1652,12 +1686,6 @@ AcDbSymbolTable
 LAYER
   5
 10
-102
-{ACAD_XDICTIONARY
-360
-E6
-102
-}
 330
 2
 100
@@ -1815,7 +1843,7 @@ VIEW
 100
 AcDbSymbolTable
  70
-     2
+     0
   0
 ENDTAB
   0
@@ -1972,24 +2000,10 @@ AcDbSymbolTable
      2
 100
 AcDbDimStyleTable
- 71
-     2
-340
-27
-340
-E1
   0
 DIMSTYLE
 105
 27
-102
-{ACAD_REACTORS
-330
-28B
-330
-28E
-102
-}
 330
 A
 100
@@ -1999,6 +2013,8 @@ AcDbDimStyleTableRecord
   2
 Standard
  70
+     0
+178
      0
 340
 11
@@ -2018,6 +2034,8 @@ Annotative
      0
  40
 0.0
+178
+     0
 340
 11
 1001
@@ -2057,7 +2075,7 @@ BLOCK_RECORD
 100
 AcDbSymbolTable
  70
-     6
+     5
   0
 BLOCK_RECORD
   5
@@ -2175,7 +2193,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D4
+*D3
 340
 0
  70
@@ -2195,7 +2213,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D5
+*D4
 340
 0
  70
@@ -2300,8 +2318,6 @@ BLOCK
 5D
 100
 AcDbEntity
- 67
-     1
   8
 0
 100
@@ -2328,8 +2344,6 @@ ENDBLK
 5D
 100
 AcDbEntity
- 67
-     1
   8
 0
 100
@@ -3031,7 +3045,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D4
+*D3
  70
      1
  10
@@ -3041,7 +3055,7 @@ AcDbBlockBegin
  30
 0.0
   3
-*D4
+*D3
   1
 
   0
@@ -3373,7 +3387,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D5
+*D4
  70
      1
  10
@@ -3383,7 +3397,7 @@ AcDbBlockBegin
  30
 0.0
   3
-*D5
+*D4
   1
 
   0
@@ -3529,7 +3543,7 @@ AcDbTrace
  30
 0.0
  11
-8.104040183947217
+8.104040183947218
  21
 18.4651540678338
  31
@@ -3569,7 +3583,7 @@ AcDbTrace
  30
 0.0
  11
-8.104040183947217
+8.104040183947218
  21
 17.82515406783379
  31
@@ -3603,7 +3617,7 @@ AcDbEntity
 100
 AcDbMText
  10
-8.074040183947216
+8.074040183947217
  20
 18.1451540678338
  30
@@ -3875,7 +3889,7 @@ AcDbCircle
  10
 11.55111762223969
  20
-9.238639590145012
+9.238639590145011
  30
 0.0
  40
@@ -3985,7 +3999,7 @@ AcDbArc
  50
 10.18755105039393
  51
-50.17607703323683
+50.17607703323682
   0
 LINE
   5
@@ -4033,7 +4047,7 @@ AcDbCircle
 100
 AcDbArc
  50
-46.01240861604503
+46.01240861604502
  51
 90.0
   0
@@ -4077,7 +4091,7 @@ AcDbCircle
  10
 22.55111762223969
  20
-9.238639590145012
+9.238639590145011
  30
 0.0
  40
@@ -4113,186 +4127,6 @@ AcDbLine
  31
 0.0
   0
-LWPOLYLINE
-  5
-28A
-102
-{ACAD_REACTORS
-330
-28D
-330
-290
-102
-}
-330
-1F
-100
-AcDbEntity
-  8
-0
-100
-AcDbPolyline
- 90
-        4
- 70
-     1
- 43
-0.0
- 10
-6.55196615876504
- 20
-18.6451540678338
- 10
-7.55196615876504
- 20
-18.6451540678338
- 10
-7.55196615876504
- 20
-17.6451540678338
- 10
-6.55196615876504
- 20
-17.6451540678338
-  0
-DIMENSION
-  5
-28B
-102
-{ACAD_XDICTIONARY
-360
-28C
-102
-}
-102
-{ACAD_REACTORS
-330
-28D
-102
-}
-330
-1F
-100
-AcDbEntity
-  8
-0
-100
-AcDbDimension
-280
-     0
-  2
-*D4
- 10
-6.55196615876504
- 20
-17.19493702172651
- 30
-0.0
- 11
-7.05196615876504
- 21
-17.19493702172651
- 31
-0.0
- 70
-    32
- 71
-     5
- 73
-     0
- 74
-     0
- 75
-     0
-  3
-Standard
-100
-AcDbAlignedDimension
- 13
-7.55196615876504
- 23
-17.6451540678338
- 33
-0.0
- 14
-6.55196615876504
- 24
-17.6451540678338
- 34
-0.0
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-28E
-102
-{ACAD_XDICTIONARY
-360
-28F
-102
-}
-102
-{ACAD_REACTORS
-330
-290
-102
-}
-330
-1F
-100
-AcDbEntity
-  8
-0
-100
-AcDbDimension
-280
-     0
-  2
-*D5
- 10
-8.074040183947218
- 20
-17.64515406783379
- 30
-0.0
- 11
-8.074040183947216
- 21
-18.1451540678338
- 31
-0.0
- 70
-    32
- 71
-     5
- 73
-     0
- 74
-     0
- 75
-     0
-  3
-Standard
-100
-AcDbAlignedDimension
- 13
-7.55196615876504
- 23
-18.6451540678338
- 33
-0.0
- 14
-7.55196615876504
- 24
-17.6451540678338
- 34
-0.0
- 50
-90.0
-100
-AcDbRotatedDimension
-  0
 ENDSEC
   0
 SECTION
@@ -4324,6 +4158,10 @@ ACAD_DETAILVIEWSTYLE
 ACAD_GROUP
 350
 D
+  3
+ACAD_IMAGE_VARS
+350
+2C2
   3
 ACAD_LAYOUT
 350
@@ -4365,13 +4203,57 @@ ACAD_VISUALSTYLE
 350
 99
   3
-ACDB_RECOMPOSE_DATA
-350
-2BF
-  3
 AcDbVariableDictionary
 350
 66
+  3
+ACDB_RECOMPOSE_DATA
+350
+2D4
+  3
+APPDATA
+350
+2C0
+  3
+CENTERLINE
+350
+2CE
+  3
+DimOffsetDictionary
+350
+2C9
+  0
+SUN
+  5
+2C1
+330
+94
+100
+AcDbSun
+ 90
+        1
+290
+     0
+ 63
+     7
+421
+ 16777215
+ 40
+1.0
+291
+     1
+ 91
+  2455826
+ 92
+ 54000000
+292
+     0
+ 70
+     2
+ 71
+   256
+280
+     1
   0
 DICTIONARY
   5
@@ -4391,18 +4273,6 @@ ACAD_LAYERSTATES
   0
 DICTIONARY
   5
-E6
-330
-10
-100
-AcDbDictionary
-280
-     1
-281
-     1
-  0
-DICTIONARY
-  5
 15D
 330
 1F
@@ -4416,38 +4286,6 @@ AcDbDictionary
 ACAD_SORTENTS
 360
 228
-  0
-DICTIONARY
-  5
-28C
-330
-28B
-100
-AcDbDictionary
-280
-     1
-281
-     1
-  3
-ACAD_DIMASSOC
-360
-28D
-  0
-DICTIONARY
-  5
-28F
-330
-28E
-100
-AcDbDictionary
-280
-     1
-281
-     1
-  3
-ACAD_DIMASSOC
-360
-290
   0
 XRECORD
   5
@@ -4522,6 +4360,28 @@ C
 AcDbDictionary
 281
      1
+  0
+RASTERVARIABLES
+  5
+2C2
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbRasterVariables
+ 90
+        0
+ 70
+     1
+ 71
+     1
+ 72
+     5
   0
 DICTIONARY
   5
@@ -4963,30 +4823,6 @@ X-Ray
 350
 180
   0
-XRECORD
-  5
-2BF
-102
-{ACAD_REACTORS
-330
-C
-102
-}
-330
-C
-100
-AcDbXrecord
-280
-     1
- 90
-        1
-330
-87
-330
-1AA
-330
-1AC
-  0
 DICTIONARY
   5
 66
@@ -5031,6 +4867,10 @@ HIDETEXT
 350
 6B
   3
+HPTRANSPARENCY
+350
+2C8
+  3
 LAYEREVAL
 350
 14D
@@ -5038,6 +4878,94 @@ LAYEREVAL
 LAYERNOTIFY
 350
 14E
+  0
+XRECORD
+  5
+2D4
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbXrecord
+280
+     1
+ 90
+        1
+330
+87
+  0
+DICTIONARY
+  5
+2C0
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+2CE
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+CLEXTENSION
+350
+2CF
+  0
+DICTIONARY
+  5
+2C9
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+DIMRAILANGLE
+350
+2CC
+  3
+DIMRAILFIRSTOFFSET
+350
+2CA
+  3
+DIMRAILOFFSET
+350
+2CB
+  3
+DIMRAILSENABLED
+350
+2CD
   0
 DICTIONARY
   5
@@ -5071,175 +4999,51 @@ AcDbSortentsTable
 330
 1F
 331
-21C
+208
   5
-227
+208
 331
 20B
   5
 210
 331
+210
+  5
+211
+331
+211
+  5
+213
+331
+213
+  5
+214
+331
+214
+  5
+21A
+331
 21A
   5
 21B
 331
-208
+21C
   5
-208
-331
-214
-  5
-21A
-331
-213
-  5
-214
-331
-211
-  5
-213
-331
-210
-  5
-211
-  0
-DIMASSOC
-  5
-28D
-102
-{ACAD_REACTORS
-330
-28C
-102
-}
-330
-28C
-100
-AcDbDimAssoc
-330
-28B
- 90
-        3
- 70
-     0
- 71
-     0
-  1
-AcDbOsnapPointRef
- 72
-    13
-331
-28A
- 73
-     2
- 91
-        3
- 40
-0.0
- 10
-11.22920360169304
- 20
-13.99245237736697
- 30
-0.0
- 75
-     0
-  1
-AcDbOsnapPointRef
- 72
-     1
-331
-28A
- 73
-     2
- 91
-        3
- 40
-1.0
- 10
-10.22920360169304
- 20
-13.99245237736697
- 30
-0.0
- 75
-     0
-  0
-DIMASSOC
-  5
-290
-102
-{ACAD_REACTORS
-330
-28F
-102
-}
-330
-28F
-100
-AcDbDimAssoc
-330
-28E
- 90
-        3
- 70
-     0
- 71
-     0
-  1
-AcDbOsnapPointRef
- 72
-    13
-331
-28A
- 73
-     2
- 91
-        2
- 40
-0.0
- 10
-11.22920360169304
- 20
-14.99245237736697
- 30
-0.0
- 75
-     0
-  1
-AcDbOsnapPointRef
- 72
-     1
-331
-28A
- 73
-     2
- 91
-        2
- 40
-1.0
- 10
-11.22920360169304
- 20
-13.99245237736697
- 30
-0.0
- 75
-     0
+227
   0
 ACDBDETAILVIEWSTYLE
   5
 1AC
 102
-{ACAD_XDICTIONARY
-360
-1C6
-102
-}
-102
 {ACAD_REACTORS
 330
 1AB
+102
+}
+102
+{ACAD_XDICTIONARY
+360
+1C6
 102
 }
 330
@@ -5382,14 +5186,14 @@ None
 
  75
     16
-147
-1.0
  76
      0
  77
      2
  78
    300
+147
+1.0
 148
 0.0
 149
@@ -5514,14 +5318,14 @@ None
 
  75
     16
-147
-1.0
  76
      0
  77
      2
  78
    300
+147
+1.0
 148
 0.0
 149
@@ -5589,12 +5393,6 @@ LAYOUT
   5
 22
 102
-{ACAD_XDICTIONARY
-360
-194
-102
-}
-102
 {ACAD_REACTORS
 330
 1A
@@ -5652,14 +5450,14 @@ ANSI_A_(8.50_x_11.00_Inches)
 
  75
      0
-147
-0.3868628397755418
  76
      0
  77
      2
  78
    300
+147
+0.3868628397755418
 148
 0.0
 149
@@ -5729,15 +5527,15 @@ MATERIAL
   5
 97
 102
-{ACAD_XDICTIONARY
-360
-188
-102
-}
-102
 {ACAD_REACTORS
 330
 72
+102
+}
+102
+{ACAD_XDICTIONARY
+360
+188
 102
 }
 330
@@ -5746,6 +5544,8 @@ MATERIAL
 AcDbMaterial
   1
 ByBlock
+ 72
+     1
  94
        63
   0
@@ -5753,15 +5553,15 @@ MATERIAL
   5
 96
 102
-{ACAD_XDICTIONARY
-360
-186
-102
-}
-102
 {ACAD_REACTORS
 330
 72
+102
+}
+102
+{ACAD_XDICTIONARY
+360
+186
 102
 }
 330
@@ -5770,6 +5570,8 @@ MATERIAL
 AcDbMaterial
   1
 ByLayer
+ 72
+     1
  94
        63
   0
@@ -5777,15 +5579,15 @@ MATERIAL
   5
 98
 102
-{ACAD_XDICTIONARY
-360
-110
-102
-}
-102
 {ACAD_REACTORS
 330
 72
+102
+}
+102
+{ACAD_XDICTIONARY
+360
+110
 102
 }
 330
@@ -5794,6 +5596,8 @@ MATERIAL
 AcDbMaterial
   1
 Global
+ 72
+     1
  43
 0.0208000000566244
  43
@@ -5984,6 +5788,8 @@ AcDbMLeaderStyle
 0.36
   3
 Standard
+341
+0
  44
 0.18
 300
@@ -6008,6 +5814,8 @@ Standard
      0
  46
 0.18
+343
+0
  94
 -1056964608
  47
@@ -6086,6 +5894,8 @@ AcDbMLeaderStyle
 0.36
   3
 Standard
+341
+0
  44
 0.18
 300
@@ -6110,6 +5920,8 @@ Standard
      0
  46
 0.18
+343
+0
  94
 -1056964608
  47
@@ -6991,15 +6803,15 @@ ACDBSECTIONVIEWSTYLE
   5
 1AA
 102
-{ACAD_XDICTIONARY
-360
-1C4
-102
-}
-102
 {ACAD_REACTORS
 330
 1A8
+102
+}
+102
+{ACAD_XDICTIONARY
+360
+1C4
 102
 }
 330
@@ -7117,23 +6929,21 @@ TABLESTYLE
   5
 87
 102
-{ACAD_XDICTIONARY
-360
-104
-102
-}
-102
 {ACAD_REACTORS
 330
 86
+102
+}
+102
+{ACAD_XDICTIONARY
+360
+2D2
 102
 }
 330
 86
 100
 AcDbTableStyle
-280
-     0
   3
 Standard
  70
@@ -7157,7 +6967,7 @@ Standard
  62
      0
  63
-     7
+   257
 283
      0
  90
@@ -7211,7 +7021,7 @@ Standard
  62
      0
  63
-     7
+   257
 283
      0
  90
@@ -7265,7 +7075,7 @@ Standard
  62
      0
  63
-     7
+   257
 283
      0
  90
@@ -7501,7 +7311,7 @@ AcDbVisualStyle
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -7763,7 +7573,7 @@ Basic
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -8025,7 +7835,7 @@ Brighten
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -8289,7 +8099,7 @@ ColorChange
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -8551,7 +8361,7 @@ Conceptual
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -8813,7 +8623,7 @@ Dim
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -9075,7 +8885,7 @@ EdgeColorOff
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -9337,7 +9147,7 @@ Facepattern
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -9599,7 +9409,7 @@ Flat
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -9861,7 +9671,7 @@ FlatWithEdges
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -10123,7 +9933,7 @@ Gouraud
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -10385,7 +10195,7 @@ GouraudWithEdges
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -10647,7 +10457,7 @@ Hidden
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -10909,7 +10719,7 @@ JitterOff
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -11171,7 +10981,7 @@ Linepattern
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -11433,7 +11243,7 @@ OverhangOff
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -11695,7 +11505,7 @@ Realistic
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -11959,7 +11769,7 @@ Shaded
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -12221,7 +12031,7 @@ Shaded with edges
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -12483,7 +12293,7 @@ Shades of Gray
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -12745,7 +12555,7 @@ Sketchy
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -13007,7 +12817,7 @@ Thicken
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -13269,7 +13079,7 @@ Wireframe
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -13531,7 +13341,7 @@ X-Ray
 176
      1
  62
-    18
+   178
 420
         0
 176
@@ -13637,7 +13447,7 @@ DictionaryVariables
 280
      0
   1
-STANDARD
+Standard
   0
 DICTIONARYVAR
   5
@@ -13655,7 +13465,7 @@ DictionaryVariables
 280
      0
   1
-STANDARD
+Standard
   0
 DICTIONARYVAR
   5
@@ -13731,6 +13541,24 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
+2C8
+102
+{ACAD_REACTORS
+330
+66
+102
+}
+330
+66
+100
+DictionaryVariables
+280
+     0
+  1
+.
+  0
+DICTIONARYVAR
+  5
 14D
 102
 {ACAD_REACTORS
@@ -13765,6 +13593,96 @@ DictionaryVariables
   1
 0
   0
+DICTIONARYVAR
+  5
+2CF
+102
+{ACAD_REACTORS
+330
+2CE
+102
+}
+330
+2CE
+100
+DictionaryVariables
+280
+     0
+  1
+0.250000
+  0
+DICTIONARYVAR
+  5
+2CC
+102
+{ACAD_REACTORS
+330
+2C9
+102
+}
+330
+2C9
+100
+DictionaryVariables
+280
+     0
+  1
+0.261799
+  0
+DICTIONARYVAR
+  5
+2CA
+102
+{ACAD_REACTORS
+330
+2C9
+102
+}
+330
+2C9
+100
+DictionaryVariables
+280
+     0
+  1
+0.400000
+  0
+DICTIONARYVAR
+  5
+2CB
+102
+{ACAD_REACTORS
+330
+2C9
+102
+}
+330
+2C9
+100
+DictionaryVariables
+280
+     0
+  1
+0.250000
+  0
+DICTIONARYVAR
+  5
+2CD
+102
+{ACAD_REACTORS
+330
+2C9
+102
+}
+330
+2C9
+100
+DictionaryVariables
+280
+     0
+  1
+0
+  0
 DICTIONARY
   5
 1C6
@@ -13779,19 +13697,7 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-2BE
-  0
-DICTIONARY
-  5
-194
-330
-22
-100
-AcDbDictionary
-280
-     1
-281
-     1
+2D0
   0
 DICTIONARY
   5
@@ -13837,25 +13743,9 @@ AcDbDictionary
 281
      1
   3
-BUMPTILE
-360
-112
-  3
-DIFFUSETILE
-360
-111
-  3
 FBXASSET
 360
 18A
-  3
-OPACITYTILE
-360
-113
-  3
-REFLECTIONTILE
-360
-114
   0
 DICTIONARY
   5
@@ -13871,11 +13761,11 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-2BD
+2D1
   0
 DICTIONARY
   5
-104
+2D2
 330
 87
 100
@@ -13887,11 +13777,11 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-2BC
+2D3
   0
 XRECORD
   5
-2BE
+2D0
 102
 {ACAD_REACTORS
 330
@@ -14139,46 +14029,6 @@ B670623BF270F13306000000040000003600000000000000000000000000760E00006662782F4537
   0
 XRECORD
   5
-112
-102
-{ACAD_REACTORS
-330
-110
-102
-}
-330
-110
-100
-AcDbXrecord
-280
-     1
-270
-     1
-271
-     1
-  0
-XRECORD
-  5
-111
-102
-{ACAD_REACTORS
-330
-110
-102
-}
-330
-110
-100
-AcDbXrecord
-280
-     1
-270
-     1
-271
-     1
-  0
-XRECORD
-  5
 18A
 102
 {ACAD_REACTORS
@@ -14291,47 +14141,7 @@ B670623BF270F13306000000040000003600000000000000000000000000770E00006662782F3835
   0
 XRECORD
   5
-113
-102
-{ACAD_REACTORS
-330
-110
-102
-}
-330
-110
-100
-AcDbXrecord
-280
-     1
-270
-     1
-271
-     1
-  0
-XRECORD
-  5
-114
-102
-{ACAD_REACTORS
-330
-110
-102
-}
-330
-110
-100
-AcDbXrecord
-280
-     1
-270
-     1
-271
-     1
-  0
-XRECORD
-  5
-2BD
+2D1
 102
 {ACAD_REACTORS
 330
@@ -14355,15 +14165,15 @@ FLAGS
   0
 CELLSTYLEMAP
   5
-2BC
+2D3
 102
 {ACAD_REACTORS
 330
-104
+2D2
 102
 }
 330
-104
+2D2
 100
 AcDbCellStyleMap
  90
@@ -15007,7 +14817,7 @@ ACDSDATA
  70
      2
  71
-     8
+     2
   0
 ACDSSCHEMA
  90
@@ -15031,7 +14841,7 @@ ACDSRECORD
  95
         0
  90
-        1
+        2
   2
 AcDbDs::TreatedAsObjectData
 280
@@ -15043,7 +14853,7 @@ ACDSRECORD
  95
         0
  90
-        2
+        3
   2
 AcDbDs::Legacy
 280
@@ -15055,7 +14865,7 @@ ACDSRECORD
   1
 AcDbDs::ID
  90
-        3
+        4
   2
 AcDs:Indexable
 280
@@ -15067,7 +14877,7 @@ ACDSRECORD
   1
 AcDbDs::ID
  90
-        4
+        5
   2
 AcDbDs::HandleAttribute
 280
@@ -15079,6 +14889,72 @@ ACDSSCHEMA
  90
         1
   1
+AcDb3DSolid_ASM_Data
+  2
+AcDbDs::ID
+280
+    10
+ 91
+        8
+  2
+ASM_Data
+280
+    15
+ 91
+        0
+101
+ACDSRECORD
+ 95
+        1
+ 90
+        2
+  2
+AcDbDs::TreatedAsObjectData
+280
+     1
+291
+     1
+101
+ACDSRECORD
+ 95
+        1
+ 90
+        3
+  2
+AcDbDs::Legacy
+280
+     1
+291
+     1
+101
+ACDSRECORD
+  1
+AcDbDs::ID
+ 90
+        4
+  2
+AcDs:Indexable
+280
+     1
+291
+     1
+101
+ACDSRECORD
+  1
+AcDbDs::ID
+ 90
+        5
+  2
+AcDbDs::HandleAttribute
+280
+     7
+282
+     1
+  0
+ACDSSCHEMA
+ 90
+        2
+  1
 AcDbDs::TreatedAsObjectDataSchema
   2
 AcDbDs::TreatedAsObjectData
@@ -15089,7 +14965,7 @@ AcDbDs::TreatedAsObjectData
   0
 ACDSSCHEMA
  90
-        2
+        3
   1
 AcDbDs::LegacySchema
   2
@@ -15101,7 +14977,7 @@ AcDbDs::Legacy
   0
 ACDSSCHEMA
  90
-        3
+        4
   1
 AcDbDs::IndexedPropertySchema
   2
@@ -15113,7 +14989,7 @@ AcDs:Indexable
   0
 ACDSSCHEMA
  90
-        4
+        5
   1
 AcDbDs::HandleAttributeSchema
   2
