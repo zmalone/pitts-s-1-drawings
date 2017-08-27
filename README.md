@@ -21,5 +21,3 @@ Some parts are duplicated in different directions, such as 224-29/224-30.  I've 
 Add material and count information for each part.
 
 I'm planning on using someone else's tail and wing kit.  No tail or wing brackets are included at this time.
-
-I have not yet drawn the lower engine cowling.
