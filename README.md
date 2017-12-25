@@ -4,7 +4,7 @@ CAD Drawings of S-1S brackets and sheet metal.  All files are currently in .dxf 
 Buyer beware, please double check all measurements before you pay someone to cut these.
 
 ## Notes
-These brackets have bend relief allowances and bend notches.  These are not called for in the plans, but I was okay with them being subsumed into the weld, please adjust them if you don't want them:
+These brackets have bend relief allowances.  These are not called for in the plans, please adjust them if you don't want them:
 * 210-85/86
 * 210-87/88
 * 210-89/90
