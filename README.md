@@ -14,6 +14,3 @@ These brackets have bend relief allowances.  These are not called for in the pla
 * 210-110/111
 
 Some parts are duplicated in different directions, such as 224-29/224-30.  I've included the first part number, but not both numbers.
-
-## TODO
-Add material and count information for each part.
